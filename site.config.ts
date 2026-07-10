@@ -1,12 +1,12 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://your.site',
+  url: 'https://ff.ymq.us.ci/',
   lang: 'zh-CN',
-  title: 'AIOVTUE',
-  subtitle: '雪',
+  title: '人生如梦',
+  subtitle: '心愿网',
   author: {
-    name: 'AIOVTUE',
+    name: '美梦成真',
     avatar: 'https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG',   //站点头像
     status: {
       emoji: '🌸',
@@ -25,26 +25,20 @@ export default defineSiteConfig({
       color: 'orange',
     },
     {
-      name: 'GitHub',
-      link: 'https://github.com/AIOVTUE',
+      name: '电影院',
+      link: 'https://vedio.ymq.cc.cd/',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
     {
-      name: '微信公众号',
-      link: 'https://r2tc.20030327.xyz/file/博客/主题/1780654223927_mmexport1780654189207.jpeg',
-      icon: 'i-ri-wechat-2-line',
-      color: '#1AAD19',
-    },
-    {
-      name: 'E-Mail',
-      link: 'mailto:x@yybb.us',
+      name: '聊天室',
+      link: 'https://1.ymq.cc.cd/',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
     {
-      name: 'Travelling',
-      link: 'https://www.travellings.cn/go.html',
+      name: '音乐厅',
+      link: 'https://yy1.ymq.cc.cd/',
       icon: 'i-ri-train-line',
       color: '#8cb1b3',
     },
@@ -80,18 +74,18 @@ export default defineSiteConfig({
   },
 
   sponsor: {
-    enable: true,
+    enable: false,
     title: '我很可爱，请给我钱！',
     methods: [
       {
         name: '支付宝',
-        url: 'https://i.postimg.cc/fyYTncnJ/IMG-20240915-155521.jpg',
+        url: 'https://i.postimg.cc/fyYTncnJ',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: '微信支付',
-        url: 'https://i.postimg.cc/26s8KHts/IMG-20240915-155547.png',
+        url: 'https://i.postimg.cc/26s8KHts',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
@@ -100,7 +94,7 @@ export default defineSiteConfig({
 
   // 文章图片点击放大预览（自定义画廊，支持左右切换）
   mediumZoom: {
-    enable: false,
+    enable: true,
   },
 
   // 代码块超过该行数时自动折叠，点击底部按钮可展开
