@@ -6,37 +6,37 @@ cover: "hero/hero-2.png"
 comment: true
 linkGroups:
   - name: 紧密相连
-    desc: 下面都是 AIOVTUE-雪 自己的网站哦，还有，建议这里只放八个哦~
+    desc: 下面都是 人生如梦 自己的网站哦
     links:
-      - url: https://daily.yybb.us/
+      - url: https://1.ymq.cc.cd
         avatar: https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG
-        name: AIOVTUE-雪
-        blog: AIOVTUE-雪
-        desc: 这和本站是一样的架构哦~
+        name: 聊天室
+        blog: 人生如梦
+        desc: 欢迎到聊天室聊天
         color: "#0078e7"
         siteshot: https://r2tc.20030327.xyz/file/博客/友链/1782106866919_1780909850378_1780909790262.jpg
      
-      - url: https://yybb.us
+      - url: https://yy1.ymq.cc.cd
         avatar: https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG
-        name: AIOVTUE's blog
-        blog: AIOVTUE's blog
-        desc: 这个使用的是Notionnext哦~
+        name: 音乐
+        blog: 音乐
+        desc: 音乐下载
         color: "#0078e7"
         siteshot: https://r2tc.20030327.xyz/file/博客/友链/1782106889251_1782106583220.jpg
      
-      - url: https://bk.yybb.us
+      - url: https://vedio.ymq.cc.cd
         avatar: https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG
-        name: aiovtue'rin blog
-        blog: aiovtue'rin blog
-        desc: 这个是基于Rin的呢~
+        name: 电影院
+        blog: 免费电影
+        desc: 在线电影
         color: "#e07a96"
         siteshot: https://r2tc.20030327.xyz/file/博客/友链/1782106905059_LqvQ7D2x.jpg
      
-      - url: https://20030327.xyz/
+      - url: https://zh.kgb101.ru/
         avatar: https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG
-        name: AIOVTUE's blog
-        blog: AIOVTUE's blog
-        desc: 这是hugo的butterfly主题哦~
+        name: 在线图书馆
+        blog: 图书馆
+        desc: 免费图书在线看
         color: "#e07a96"
         siteshot: https://r2tc.20030327.xyz/file/博客/友链/1782106913431_68a8432258cb8da5c842bfaf.jpg
  
