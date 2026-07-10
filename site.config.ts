@@ -3,11 +3,11 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://ff.ymq.us.ci/',
   lang: 'zh-CN',
-  title: '人生如梦',
-  subtitle: '心愿网',
+  title: '心愿网',
+  subtitle: '人生如梦',
   author: {
     name: '美梦成真',
-    avatar: 'https://tk.ymq.cc.cd/file/1782616589536_2.png',   //站点头像
+    avatar: 'https://tk.ymq.cc.cd/file/1782616587196_1.png',   //站点头像
     status: {
       emoji: '🌸',
       message: '奋斗ing...',
