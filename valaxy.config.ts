@@ -105,8 +105,8 @@ export default defineValaxyConfig({
         {
           label: '--- 主域名 ---',
           lines: [
-            'daily.yybb.us',
-            'daily.20030327.xyz',
+            'https://ff.ymq.us.ci/',
+            'https://ff.ymq.us.ci/',
             // 也支持对象：{ text: '显示文字', url: 'https://example.com' }
           ],
         },
@@ -161,7 +161,7 @@ export default defineValaxyConfig({
     
     
     hero: {
-      title: 'AIOVTUE',   //首页中间的文字
+      title: '许愿池',   //首页中间的文字
       motto: '雨是神的烟花',
       urls: [
       '/hero/tt3.png', 
@@ -191,19 +191,19 @@ export default defineValaxyConfig({
    footer: {
       powered: false,
       since: 2024,
-      runtimeSince: '2024-01-01',   //页脚计时时间
+      runtimeSince: '2026-07-01',   //页脚计时时间
       icon: {
         animated: true,
-        url: 'https://your-website.com',
-        title: 'Your Name',
+        url: 'https://ff.ymq.us.ci/',
+        title: '心愿网',
       },
-      icp: '<a href="https://icp.gov.moe/?keyword=20260258" target="_blank" rel="noopener">萌ICP备20260258号</a>',    //页脚网站备案
+      icp: '<a href="https://icp.gov.moe/?keyword=20260258" target="_blank" rel="noopener">勇ICP备20260258号</a>',    //页脚网站备案
     }, 
   
     navbar: [...mainNavItems],
     navbarOptions: {
-      title: ['AIOVTUE-', '雪'],   //顶栏和侧边栏文字
-      subTitle: '雨是神的烟花',
+      title: ['人生', '如梦'],   //顶栏和侧边栏文字
+      subTitle: '天道酬勤，越努力越幸运！',
       offset: 0,
       invert: ['home'],
       showMarker: false,
@@ -229,13 +229,13 @@ export default defineValaxyConfig({
 
     // 分类页样式：list 列表 / chart 环状图（玫瑰图或旭日图）
     categories: {
-      style: 'chart',
+      style: 'list',
     },
 
     // 归档页样式：list 时间线 / chart 发布统计折线面积图
     archives: {
       style: 'chart',
-      startMonth: '2024-01',
+      startMonth: '2026-07',
     },
 
     // 标签页样式：list 按钮列表 / chart 柱状统计图
