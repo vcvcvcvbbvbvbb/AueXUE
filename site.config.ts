@@ -10,7 +10,7 @@ export default defineSiteConfig({
     avatar: 'https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG',   //站点头像
     status: {
       emoji: '🌸',
-      message: '发呆ing...',
+      message: '奋斗ing...',
       },
   },
   description: '雨是神的烟花',
