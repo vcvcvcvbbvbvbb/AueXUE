@@ -7,7 +7,7 @@ export default defineSiteConfig({
   subtitle: '心愿网',
   author: {
     name: '美梦成真',
-    avatar: 'https://r2tc.20030327.xyz/file/博客/主题/1780655293662_avatar_me.jpg.PNG',   //站点头像
+    avatar: 'https://tk.ymq.cc.cd/file/1782616589536_2.png',   //站点头像
     status: {
       emoji: '🌸',
       message: '奋斗ing...',
