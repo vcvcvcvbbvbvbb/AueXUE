@@ -106,14 +106,13 @@ export default defineValaxyConfig({
           label: '--- 主域名 ---',
           lines: [
             'https://ff.ymq.us.ci/',
-            'https://ff.ymq.us.ci/',
             // 也支持对象：{ text: '显示文字', url: 'https://example.com' }
           ],
         },
         {
-          label: '--- 备用域名 ---',
+          label: '--- 欢迎来到我的博客 ---',
           lines: [
-            '这里改没有用',
+            '谢谢你的支持',
           ],
         },
       ],
@@ -190,7 +189,7 @@ export default defineValaxyConfig({
     
    footer: {
       powered: false,
-      since: 2024,
+      since: 2026,
       runtimeSince: '2026-07-01',   //页脚计时时间
       icon: {
         animated: true,
